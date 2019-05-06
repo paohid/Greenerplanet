@@ -5,23 +5,6 @@ include ('header.php');
 include ('function.php');
 
 ?>
-
-<!DOCTYPE html>
-<html>
-<head>
-      <link rel="stylesheet" href="stylesheet.css">
-      <link rel="stylesheet" href="css/bootstrap.min.css">
-      <style type="text/css">
-            .container {
-                height: 450px;
-              }
-              #map{
-                width: 100%;
-                height: 100%;
-                border: 1px solid black;
-          }
-      </style>
-</head>
 <body>
 <h2>Welcome to Recycle Me!</h2>
 <div class="div">

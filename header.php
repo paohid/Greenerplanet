@@ -1,16 +1,26 @@
-<?php
 
-//echo '<img src="images/recycle.png" class="top" alt="Florida Beach">';
-
-?>
 
 <!DOCTYPE html>
+<html lang="en">
 <html>
 <head>
+         <link rel="stylesheet" href="stylesheet.css">
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <style type="text/css">
+            .container {
+                height: 450px;
+              }
+              #map{
+                width: 100%;
+                height: 100%;
+                border: 1px solid black;
+          }
+      </style>
+
 <link rel="stylesheet" href="stylesheet.css">
 
 </head>
-<body>
+<menu
 <div>
 <ul>
   <li><a href="index.php">Home</a></li>
@@ -19,8 +29,8 @@
   <li><a href="contact.php">Contact Us</a></li>
 </ul>
 </div>
-</body>
-</html>
+</menu>   
+
 
 
 
