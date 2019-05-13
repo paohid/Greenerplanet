@@ -4,7 +4,8 @@
 <html lang="en">
 <html>
 <head>
-         <link rel="stylesheet" href="stylesheet.css">
+         <title>Recycle and help others while you do it!</title>
+      <link rel="stylesheet" href="stylesheet.css">
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <style type="text/css">
             .container {
