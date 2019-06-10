@@ -1,5 +1,7 @@
 <?php
 
+$url = parse_url(getenv("mysql://b1e6ee4b212da0:b43dd2cc@us-cdbr-iron-east-02.cleardb.net/heroku_a278cee12538f5a?reconnect=true"));
+
 $dBServername = "localhost";
 $dBUsername = "root";
 $dBPassword = "";
