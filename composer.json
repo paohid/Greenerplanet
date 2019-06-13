@@ -1,5 +1,5 @@
 {
-  "development": {
+ /* "development": {
     "username": "b1e6ee4b21",
     "password": "b43dd2cc",
     "database": "us-cdbr-iron-east-02.cleardb.net",
@@ -19,6 +19,6 @@
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"  
-  }   
+  }   */
     
 }
