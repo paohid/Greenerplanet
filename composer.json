@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "rkvn3nf7yrlr79ls",
-    "password": "nl67cmpz70tcgzgu",
-    "database": "hxuck8ek2p54ew9w",
-    "host": "k9xdebw4k3zynl4u.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "username": "b1e6ee4b21",
+    "password": "b43dd2cc",
+    "database": "us-cdbr-iron-east-02.cleardb.net",
+    "host": "heroku_a278cee12538f5a",
     "dialect": "mysql"
   },
   "test": {
