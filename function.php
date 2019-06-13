@@ -7,10 +7,10 @@ $dBUsername = "b1e6ee4b212da0";
 $dBPassword = "b43dd2cc";
 $dBName = "heroku_a278cee12538f5a";
 
-$dBServername = "localhost";
+/*$dBServername = "localhost";
 $dBUsername = "root";
 $dBPassword = "";
-$dBName = "addresses";
+$dBName = "addresses";*/
 
 
 
